@@ -11,7 +11,7 @@ This project is built using HTML, CSS, and vanilla JavaScript, making it lightwe
 - Record multiple lap times.  
 
 ## Demo  
-You can see a live demo of the Stopwatch project (https://your-demo-link](https://ankitsingh2129.github.io/StopWatch.github.io/).  
+You can see a live demo of the Stopwatch project ([https://your-demo-link](https://ankitsingh2129.github.io/StopWatch.github.io/)]().  
 
 ## Installation  
 To use the Stopwatch project locally, follow these steps:  
